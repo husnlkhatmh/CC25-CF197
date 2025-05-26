@@ -1,0 +1,7 @@
+link figma
+https://www.figma.com/design/B5qe4NstX4Vf6yR6EqjiAl/DBS-CAPSTONE?node-id=0-1&p=f 
+
+link userflow
+https://drive.google.com/file/d/1nI0ruN62NjcADsnzZOxgUCspko9BKwh1/view?usp=sharing 
+
+link dataset ada di file .ipynb, dataset yang itu akan kita tambahkan sampe minimal 1000 dataset
